@@ -22,7 +22,8 @@
 
 ```shell script
 apt-get update && apt-get upgrade -y
-apt-get install git python2
+apt-get install git 
+apt-get install php
 pip install requests
 ```
 
