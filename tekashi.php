@@ -23,11 +23,11 @@ $yellow = "\033[1;33m";
 $white = "\033[1;37m";
 $normal = "\033[0m";
 echo "\n$yellow
-$red                   _____                                           $normal
-$red                  / ___/_________ _____  ____  ___  _____          $normal
-$red                  \__ \/ ___/ __ `/ __ \/ __ \/ _ \/ ___/          $normal
-$red                 ___/ / /__/ /_/ / / / / / / /  __/ /              $normal
-$red                /____/\___/\__,_/_/ /_/_/ /_/\___/_/               $normal";
+$red            _____                                           $normal
+$red           / ___/_________ _____  ____  ___  _____          $normal
+$red           \__ \/ ___/ __ `/ __ \/ __ \/ _ \/ ___/          $normal
+$red          ___/ / /__/ /_/ / / / / / / /  __/ /              $normal
+$red         /____/\___/\__,_/_/ /_/_/ /_/\___/_/               $normal";
 echo "\n     $yellow:::$white Scanner v1.0 - 26 February 2022 (12:12)  $normal";
 echo "\n     $yellow:::$white Author: tekashiZiin | Codename: tekashi. $normal";
 echo "\n     $yellow:::$white Team: Hacker Security | O~WEB Scanner    $normal";
